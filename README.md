@@ -46,7 +46,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 ### 📚 Academic Tools
 - LaTeX (custom `Thesis.cls`, TikZ, BibTeX)
 - Markdown, Overleaf
-- Reviewing: COLING, ACL
+- Reviewing: CLIN32, Languages and Resources in Springer Nature 2024, COLING 2024, AT4SSL, MT Summit 2025
 
 ---
 
