@@ -61,7 +61,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 
 ## 📫 Get in Touch
 
-- 🌐 [jonathanmutal.github.io](https://jonathanmutal.github.io) *(optional if you build it)*
+- 🌐 [jonathanmutal.github.io](https://jonathanmutal.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonathan-mutal/)
 - 📧 jonathan.mutal [at] unige.ch  
 - 🐙 Explore my projects below ↓
