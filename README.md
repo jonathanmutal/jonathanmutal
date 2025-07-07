@@ -21,10 +21,10 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 ## 🛠️ Tools & Technologies
 
 ### 🧠 Machine Translation & NLP
-- **Frameworks**: Hugging Face Transformers, MarianNMT, NLLB, Mistral, OpenNMT
-- **Techniques**: Multilingual MT, domain adaptation, in-context learning, zero-/few-shot learning, instruction tuning
+- **Frameworks**: Hugging Face Transformers, MarianNMT, NLLB, Mistral, OpenNMT, Pytorch, Moses
+- **Techniques**: Multilingual MT, domain adaptation, in-context learning, instruction tuning
 - **Evaluation**: BLEU, ChrF, COMET, concept-level F1 (UMLS), human evaluation (adequacy, fluency, usability)
-- **Retrieval & Representation**: BM25, LASER, UMLS-based concept mapping, gloss alignment
+- **Retrieval & Representation**: BM25, LASER, UMLS-based concept mapping, gloss alignment, giza++
 
 ### 📈 Statistical & Evaluation Methods
 - Cumulative Link Mixed Models (CLMM)
@@ -42,6 +42,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 - GDPR compliance: consent, encryption, data retention
 - Web & backend dev (PHP, MySQL, custom forms)
 - Git, GitHub Actions, Docker (basic usage)
+- Windows sever R12 and Ubuntu server
 
 ### 📚 Academic Tools
 - LaTeX (custom `Thesis.cls`, TikZ, BibTeX)
