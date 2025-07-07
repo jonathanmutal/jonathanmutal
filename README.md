@@ -55,7 +55,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 
 - Built a multilingual MT training pipeline with multitask validation and biomedical vocabulary adaptation
 - Conducted large-scale human evaluations of medical translation (Arabic, Spanish, Farsi, Albanian, Tigrinya…)
-- Released models and data via Hugging Face: [UNIGE](https://huggingface.co/UNIGE)
+- Released models and data via Hugging Face: [Models](https://huggingface.co/jonathanmutal))
 
 ---
 
