@@ -21,7 +21,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 ## 🛠️ Tools & Technologies
 
 ### 🧠 Machine Translation & NLP
-- **Frameworks**: Hugging Face Transformers, MarianNMT, NLLB, Mistral, OpenNMT, Pytorch, Moses
+- **Frameworks**: Hugging Face Transformers (for example, our submission for [WMT24 using NLLB](https://github.com/jonathanmutal/WMT-24-Submission)), OpenNMT, Pytorch, Moses, MarianNMT
 - **Techniques**: Multilingual MT, domain adaptation, in-context learning, instruction tuning
 - **Evaluation**: BLEU, ChrF, COMET, concept-level F1 (UMLS), human evaluation (adequacy, fluency, usability)
 - **Retrieval & Representation**: BM25, LASER, UMLS-based concept mapping, gloss alignment, giza++
