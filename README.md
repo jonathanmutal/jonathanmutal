@@ -41,7 +41,7 @@ As part of the [PictoDr](https://www.unige.ch/pictodr) and [BabelDr](https://bab
 ### 🧑‍💻 Software Development & Infrastructure
 - GDPR compliance: consent, encryption, data retention
 - Web & backend dev (PHP, MySQL, custom forms)
-- Git, GitHub Actions, Docker (basic usage)
+- Git, GitHub Actions, [Docker and FastAPI for deploying NMT](https://github.com/jonathanmutal/fastiAPI-AI-deploy-docker)
 - Windows sever R12 and Ubuntu server
 
 ### 📚 Academic Tools
